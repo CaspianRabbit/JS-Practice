@@ -5,6 +5,7 @@
 // to print this out on the console,
 // we use the console 'class', and access a method
 // called 'log', within that class
+// methods are very similar to functions, just defined within a class
 console.log()
 // empty line output cuz we didn't pass in any arguments
 
